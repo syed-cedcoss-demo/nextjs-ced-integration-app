@@ -29,7 +29,7 @@ const Login = () => {
           <input
             type="button"
             value="Login"
-            onClick={() => router.push("/panel/dashboard")}
+            onClick={() => router.push("/onboarding/welcome")}
             className="btn-primary"
           />
         </label>
