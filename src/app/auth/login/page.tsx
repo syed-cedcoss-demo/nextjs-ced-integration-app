@@ -36,7 +36,7 @@ const Login = () => {
         <label className="block">
           <span className="block text-sm font-medium text-gray-500">
             New to CedCommerce?{" "}
-            <Link href="/signup" className="text-blue-500 cursor-pointer">
+            <Link href="/auth/signup" className="text-blue-500 cursor-pointer">
               Create Account
             </Link>
           </span>
